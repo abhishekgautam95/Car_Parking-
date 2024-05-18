@@ -1,0 +1,9 @@
+[package]
+name = "car_parking"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+geo = "0.28.0"
+geo-types = "0.7.0"
+reqwest="0.12.4"
